@@ -1,0 +1,663 @@
+Inorder traversal
+New cases: 0 at Guam/Oceania on 6/16/2022 Total: 0 Pop: 170534
+New cases: 1 at North Korea/Asia on 5/14/2022 Total: 1 Pop: 25971909
+New cases: 2 at Saint Helena/Africa on 9/7/2020 Total: 2 Pop: 5404
+New cases: 3 at Saint Helena/Africa on 8/24/2022 Total: 7 Pop: 5404
+New cases: 5 at Tuvalu/Oceania on 7/8/2022 Total: 8 Pop: 11204
+New cases: 7 at Vatican/Europe on 10/12/2020 Total: 19 Pop: 511
+New cases: 12 at Tuvalu/Oceania on 8/23/2022 Total: 20 Pop: 11204
+New cases: 54 at Wallis and Futuna/Oceania on 7/26/2022 Total: 587 Pop: 11627
+New cases: 61 at Macao/Asia on 7/1/2022 Total: 325 Pop: 686607
+New cases: 77 at Wallis and Futuna/Oceania on 7/19/2022 Total: 533 Pop: 11627
+New cases: 89 at Macao/Asia on 7/7/2022 Total: 550 Pop: 686607
+New cases: 94 at Montserrat/North America on 5/12/2022 Total: 747 Pop: 4417
+New cases: 98 at Montserrat/North America on 5/4/2022 Total: 371 Pop: 4417
+New cases: 114 at Sierra Leone/Africa on 6/20/2021 Total: 4816 Pop: 8420641
+New cases: 132 at Anguilla/North America on 5/16/2022 Total: 3116 Pop: 15753
+New cases: 145 at Niger/Africa on 12/17/2020 Total: 2506 Pop: 25252722
+New cases: 146 at Sierra Leone/Africa on 1/30/2021 Total: 3528 Pop: 8420641
+New cases: 160 at Guinea-Bissau/Africa on 8/19/2021 Total: 5366 Pop: 2060721
+New cases: 165 at Anguilla/North America on 1/10/2022 Total: 1942 Pop: 15753
+New cases: 174 at Wallis and Futuna/Oceania on 7/27/2022 Total: 761 Pop: 11627
+New cases: 177 at Saint Kitts and Nevis/North America on 1/6/2022 Total: 3666 Pop: 47606
+New cases: 181 at Eritrea/Africa on 12/29/2020 Total: 1220 Pop: 3620312
+New cases: 182 at Saint Pierre and Miquelon/North America on 4/8/2022 Total: 2418 Pop: 5883
+New cases: 183 at Sao Tome and Principe/Africa on 1/12/2022 Total: 5235 Pop: 223107
+New cases: 184 at Niger/Africa on 1/12/2022 Total: 8260 Pop: 25252722
+New cases: 191 at Guinea-Bissau/Africa on 1/25/2022 Total: 7484 Pop: 2060721
+New cases: 192 at Sierra Leone/Africa on 6/24/2021 Total: 5155 Pop: 8420641
+New cases: 193 at Turks and Caicos Islands/North America on 1/6/2022 Total: 3755 Pop: 45114
+New cases: 195 at Falkland Islands/South America on 5/6/2022 Total: 392 Pop: 3764
+New cases: 196 at Anguilla/North America on 5/10/2022 Total: 2984 Pop: 15753
+New cases: 207 at Kiribati/Oceania on 2/8/2022 Total: 1951 Pop: 128874
+New cases: 209 at Eritrea/Africa on 1/14/2021 Total: 1805 Pop: 3620312
+New cases: 210 at Tajikistan/Asia on 5/22/2020 Total: 2350 Pop: 9750064
+New cases: 222 at Kiribati/Oceania on 2/9/2022 Total: 2173 Pop: 128874
+New cases: 225 at Turks and Caicos Islands/North America on 1/14/2022 Total: 4956 Pop: 45114
+New cases: 230 at Cook Islands/Oceania on 4/4/2022 Total: 2526 Pop: 17003
+New cases: 234 at Comoros/Africa on 1/14/2021 Total: 1403 Pop: 821626
+New cases: 236 at Yemen/Asia on 1/26/2022 Total: 10821 Pop: 32981641
+New cases: 237 at Palau/Oceania on 2/4/2022 Total: 2352 Pop: 18024
+New cases: 238 at Saint Kitts and Nevis/North America on 1/7/2022 Total: 3904 Pop: 47606
+New cases: 241 at Comoros/Africa on 12/30/2021 Total: 6284 Pop: 821626
+New cases: 247 at Palau/Oceania on 1/26/2022 Total: 898 Pop: 18024
+New cases: 258 at Gibraltar/Europe on 4/14/2022 Total: 17494 Pop: 32670
+New cases: 260 at Cook Islands/Oceania on 4/19/2022 Total: 4201 Pop: 17003
+New cases: 263 at Liechtenstein/Europe on 3/7/2022 Total: 13195 Pop: 39039
+New cases: 265 at Sao Tome and Principe/Africa on 1/7/2022 Total: 4416 Pop: 223107
+New cases: 275 at Comoros/Africa on 12/22/2021 Total: 4952 Pop: 821626
+New cases: 278 at Cook Islands/Oceania on 4/11/2022 Total: 3449 Pop: 17003
+New cases: 279 at Saint Pierre and Miquelon/North America on 4/1/2022 Total: 2236 Pop: 5883
+New cases: 280 at Djibouti/Africa on 5/30/2020 Total: 3194 Pop: 1105557
+New cases: 281 at Haiti/North America on 6/1/2020 Total: 1865 Pop: 11447569
+New cases: 282 at Eritrea/Africa on 6/4/2021 Total: 4427 Pop: 3620312
+New cases: 284 at Haiti/North America on 6/7/2020 Total: 2924 Pop: 11447569
+New cases: 287 at Yemen/Asia on 2/8/2022 Total: 11553 Pop: 32981641
+New cases: 296 at Gibraltar/Europe on 6/23/2022 Total: 19306 Pop: 32670
+New cases: 299 at Liberia/Africa on 12/27/2021 Total: 6228 Pop: 5193416
+New cases: 300 at Bonaire Sint Eustatius and Saba/North America on 3/21/2022 Total: 8039 Pop: 26706
+New cases: 301 at Niger/Africa on 1/7/2022 Total: 7891 Pop: 25252722
+New cases: 305 at Guinea-Bissau/Africa on 9/2/2022 Total: 8796 Pop: 2060721
+New cases: 315 at Saint Vincent and the Grenadines/North America on 1/11/2022 Total: 6562 Pop: 104332
+New cases: 319 at Sao Tome and Principe/Africa on 1/8/2022 Total: 4735 Pop: 223107
+New cases: 322 at Saint Vincent and the Grenadines/North America on 10/16/2021 Total: 4418 Pop: 104332
+New cases: 327 at Gibraltar/Europe on 6/30/2022 Total: 19633 Pop: 32670
+New cases: 329 at Central African Republic/Africa on 3/15/2022 Total: 14649 Pop: 5457154
+New cases: 338 at South Sudan/Africa on 2/4/2021 Total: 4267 Pop: 10748272
+New cases: 341 at Bonaire Sint Eustatius and Saba/North America on 4/12/2022 Total: 9341 Pop: 26706
+New cases: 348 at South Sudan/Africa on 2/22/2021 Total: 6931 Pop: 10748272
+New cases: 349 at Liechtenstein/Europe on 3/4/2022 Total: 12681 Pop: 39039
+New cases: 350 at Kiribati/Oceania on 2/5/2022 Total: 1387 Pop: 128874
+New cases: 361 at Timor/Asia on 8/25/2021 Total: 15296 Pop: 1320942
+New cases: 371 at Chad/Africa on 1/10/2022 Total: 6556 Pop: 17179740
+New cases: 383 at Djibouti/Africa on 9/28/2021 Total: 12636 Pop: 1105557
+New cases: 386 at Falkland Islands/South America on 5/19/2022 Total: 1512 Pop: 3764
+New cases: 388 at Nauru/Oceania on 6/28/2022 Total: 2793 Pop: 12512
+New cases: 391 at British Virgin Islands/North America on 7/16/2021 Total: 1993 Pop: 31122
+New cases: 395 at Antigua and Barbuda/North America on 1/19/2022 Total: 5741 Pop: 93220
+New cases: 398 at Liberia/Africa on 7/6/2021 Total: 4918 Pop: 5193416
+New cases: 399 at Nauru/Oceania on 7/3/2022 Total: 3970 Pop: 12512
+New cases: 407 at Tajikistan/Asia on 5/19/2020 Total: 1729 Pop: 9750064
+New cases: 410 at Guinea/Africa on 12/31/2021 Total: 32051 Pop: 13531906
+New cases: 415 at Djibouti/Africa on 4/6/2021 Total: 9111 Pop: 1105557
+New cases: 416 at Gambia/Africa on 1/6/2022 Total: 10792 Pop: 2639916
+New cases: 419 at Antigua and Barbuda/North America on 1/26/2022 Total: 6442 Pop: 93220
+New cases: 422 at San Marino/Europe on 1/31/2022 Total: 12884 Pop: 33746
+New cases: 423 at San Marino/Europe on 1/10/2022 Total: 9518 Pop: 33746
+New cases: 429 at Timor/Asia on 5/26/2021 Total: 6245 Pop: 1320942
+New cases: 431 at Dominica/North America on 5/15/2022 Total: 13116 Pop: 72412
+New cases: 432 at Dominica/North America on 5/25/2022 Total: 14184 Pop: 72412
+New cases: 439 at Guinea/Africa on 1/7/2022 Total: 34139 Pop: 13531906
+New cases: 447 at British Virgin Islands/North America on 1/6/2022 Total: 4207 Pop: 31122
+New cases: 450 at Gambia/Africa on 1/17/2022 Total: 11572 Pop: 2639916
+New cases: 468 at Antigua and Barbuda/North America on 2/10/2022 Total: 7321 Pop: 93220
+New cases: 480 at Chad/Africa on 1/1/2022 Total: 6183 Pop: 17179740
+New cases: 482 at Burkina Faso/Africa on 1/8/2022 Total: 19360 Pop: 22100683
+New cases: 491 at San Marino/Europe on 1/12/2022 Total: 10009 Pop: 33746
+New cases: 494 at Monaco/Europe on 1/10/2022 Total: 6087 Pop: 36686
+New cases: 503 at South Sudan/Africa on 1/4/2022 Total: 15745 Pop: 10748272
+New cases: 507 at Monaco/Europe on 1/5/2022 Total: 5492 Pop: 36686
+New cases: 512 at Nicaragua/North America on 9/22/2021 Total: 10757 Pop: 6850540
+New cases: 513 at Nicaragua/North America on 9/15/2021 Total: 10245 Pop: 6850540
+New cases: 516 at Nicaragua/North America on 9/29/2021 Total: 11273 Pop: 6850540
+New cases: 520 at Monaco/Europe on 2/4/2022 Total: 8703 Pop: 36686
+New cases: 525 at Syria/Asia on 11/3/2021 Total: 44191 Pop: 21324367
+New cases: 532 at Timor/Asia on 8/24/2021 Total: 14935 Pop: 1320942
+New cases: 533 at Grenada/North America on 1/20/2022 Total: 10960 Pop: 124610
+New cases: 534 at Guinea/Africa on 1/9/2022 Total: 34673 Pop: 13531906
+New cases: 542 at Turks and Caicos Islands/North America on 1/12/2022 Total: 4636 Pop: 45114
+New cases: 557 at British Virgin Islands/North America on 1/11/2022 Total: 4764 Pop: 31122
+New cases: 565 at Saint Lucia/North America on 1/12/2022 Total: 15937 Pop: 179652
+New cases: 566 at Vanuatu/Oceania on 4/15/2022 Total: 6109 Pop: 319136
+New cases: 568 at Saint Lucia/North America on 1/13/2022 Total: 16505 Pop: 179652
+New cases: 587 at Gambia/Africa on 8/3/2021 Total: 8296 Pop: 2639916
+New cases: 592 at Burkina Faso/Africa on 12/28/2021 Total: 17632 Pop: 22100683
+New cases: 596 at Chad/Africa on 12/3/2021 Total: 5703 Pop: 17179740
+New cases: 599 at Congo/Africa on 12/27/2021 Total: 20089 Pop: 5835806
+New cases: 616 at Vanuatu/Oceania on 6/6/2022 Total: 10061 Pop: 319136
+New cases: 622 at Bermuda/North America on 1/20/2022 Total: 9766 Pop: 64185
+New cases: 630 at Greenland/North America on 1/13/2022 Total: 7083 Pop: 56243
+New cases: 636 at Dominica/North America on 5/23/2022 Total: 13752 Pop: 72412
+New cases: 649 at Congo/Africa on 9/2/2020 Total: 4628 Pop: 5835806
+New cases: 661 at Bermuda/North America on 1/14/2022 Total: 8541 Pop: 64185
+New cases: 669 at Central African Republic/Africa on 1/14/2022 Total: 13319 Pop: 5457154
+New cases: 689 at Bermuda/North America on 1/10/2022 Total: 7880 Pop: 64185
+New cases: 701 at Samoa/Oceania on 4/15/2022 Total: 4793 Pop: 218764
+New cases: 709 at Grenada/North America on 1/18/2022 Total: 10427 Pop: 124610
+New cases: 722 at Saint Lucia/North America on 1/22/2022 Total: 19468 Pop: 179652
+New cases: 729 at Somalia/Africa on 10/25/2021 Total: 21998 Pop: 17065581
+New cases: 730 at Tonga/Oceania on 8/16/2022 Total: 14135 Pop: 106017
+New cases: 734 at Falkland Islands/South America on 5/12/2022 Total: 1126 Pop: 3764
+New cases: 742 at Equatorial Guinea/Africa on 5/20/2021 Total: 8436 Pop: 1634466
+New cases: 747 at Bahamas/North America on 1/15/2022 Total: 30655 Pop: 407906
+New cases: 753 at Tonga/Oceania on 3/24/2022 Total: 4537 Pop: 106017
+New cases: 765 at Greenland/North America on 1/18/2022 Total: 8790 Pop: 56243
+New cases: 766 at Mali/Africa on 1/6/2022 Total: 23600 Pop: 21904983
+New cases: 788 at Greenland/North America on 1/16/2022 Total: 7871 Pop: 56243
+New cases: 809 at Bahamas/North America on 1/2/2022 Total: 25285 Pop: 407906
+New cases: 814 at Mali/Africa on 1/10/2022 Total: 26011 Pop: 21904983
+New cases: 824 at Togo/Africa on 1/5/2022 Total: 32515 Pop: 8644829
+New cases: 832 at Tonga/Oceania on 3/30/2022 Total: 6423 Pop: 106017
+New cases: 847 at Micronesia (country)/Oceania on 8/3/2022 Total: 6291 Pop: 113131
+New cases: 854 at Micronesia (country)/Oceania on 7/24/2022 Total: 1012 Pop: 113131
+New cases: 896 at Papua New Guinea/Oceania on 10/24/2021 Total: 27627 Pop: 9949437
+New cases: 902 at Grenada/North America on 1/11/2022 Total: 8601 Pop: 124610
+New cases: 905 at Syria/Asia on 11/8/2021 Total: 45096 Pop: 21324367
+New cases: 923 at Barbados/North America on 1/25/2022 Total: 40632 Pop: 281200
+New cases: 975 at Papua New Guinea/Oceania on 11/3/2021 Total: 31010 Pop: 9949437
+New cases: 996 at Cambodia/Asia on 7/15/2021 Total: 64611 Pop: 16589023
+New cases: 999 at Cambodia/Asia on 7/1/2021 Total: 51384 Pop: 16589023
+New cases: 1002 at Togo/Africa on 1/2/2022 Total: 31165 Pop: 8644829
+New cases: 1005 at Burkina Faso/Africa on 1/4/2022 Total: 18637 Pop: 22100683
+New cases: 1028 at Aruba/North America on 1/4/2022 Total: 23048 Pop: 106536
+New cases: 1044 at Aruba/North America on 1/6/2022 Total: 25254 Pop: 106536
+New cases: 1066 at Somalia/Africa on 1/24/2022 Total: 25388 Pop: 17065581
+New cases: 1070 at Equatorial Guinea/Africa on 7/2/2020 Total: 3071 Pop: 1634466
+New cases: 1075 at Senegal/Africa on 7/30/2021 Total: 61245 Pop: 16876720
+New cases: 1082 at Guyana/South America on 1/16/2022 Total: 51203 Pop: 804567
+New cases: 1083 at Guyana/South America on 1/18/2022 Total: 53178 Pop: 804567
+New cases: 1106 at Curacao/North America on 1/12/2022 Total: 30864 Pop: 190338
+New cases: 1123 at Micronesia (country)/Oceania on 8/2/2022 Total: 5444 Pop: 113131
+New cases: 1130 at Cambodia/Asia on 6/30/2021 Total: 50385 Pop: 16589023
+New cases: 1135 at Suriname/South America on 1/19/2022 Total: 67768 Pop: 612984
+New cases: 1149 at Mauritania/Africa on 1/5/2022 Total: 44646 Pop: 4614974
+New cases: 1154 at Samoa/Oceania on 4/17/2022 Total: 5947 Pop: 218764
+New cases: 1155 at Barbados/North America on 5/5/2022 Total: 72282 Pop: 281200
+New cases: 1162 at Aruba/North America on 1/5/2022 Total: 24210 Pop: 106536
+New cases: 1163 at Gabon/Africa on 12/30/2021 Total: 41073 Pop: 2341179
+New cases: 1166 at Samoa/Oceania on 4/26/2022 Total: 8351 Pop: 218764
+New cases: 1172 at Trinidad and Tobago/North America on 5/14/2022 Total: 154643 Pop: 1525663
+New cases: 1179 at Mauritania/Africa on 1/6/2022 Total: 45825 Pop: 4614974
+New cases: 1186 at Guyana/South America on 1/13/2022 Total: 48191 Pop: 804567
+New cases: 1188 at Congo/Africa on 1/3/2022 Total: 21277 Pop: 5835806
+New cases: 1190 at Sudan/Africa on 1/24/2022 Total: 55149 Pop: 45657202
+New cases: 1211 at Mauritania/Africa on 1/7/2022 Total: 47036 Pop: 4614974
+New cases: 1215 at Sudan/Africa on 1/10/2021 Total: 27494 Pop: 45657202
+New cases: 1217 at Mali/Africa on 1/9/2022 Total: 25197 Pop: 21904983
+New cases: 1222 at Eswatini/Africa on 12/14/2021 Total: 54731 Pop: 1192271
+New cases: 1232 at Malawi/Africa on 1/15/2021 Total: 11223 Pop: 19889742
+New cases: 1240 at Curacao/North America on 1/6/2022 Total: 25988 Pop: 190338
+New cases: 1241 at Nauru/Oceania on 6/26/2022 Total: 2115 Pop: 12512
+New cases: 1244 at Lesotho/Africa on 1/1/2022 Total: 29652 Pop: 2281454
+New cases: 1250 at Trinidad and Tobago/North America on 12/14/2021 Total: 81857 Pop: 1525663
+New cases: 1259 at Trinidad and Tobago/North America on 1/21/2022 Total: 105264 Pop: 1525663
+New cases: 1265 at Faeroe Islands/Europe on 2/8/2022 Total: 25625 Pop: 52888
+New cases: 1284 at Sudan/Africa on 2/21/2022 Total: 61223 Pop: 45657202
+New cases: 1299 at Gabon/Africa on 1/7/2022 Total: 43939 Pop: 2341179
+New cases: 1316 at Malawi/Africa on 1/22/2021 Total: 17365 Pop: 19889742
+New cases: 1321 at Uzbekistan/Asia on 1/21/2022 Total: 210899 Pop: 34081449
+New cases: 1329 at Barbados/North America on 1/19/2022 Total: 37063 Pop: 281200
+New cases: 1351 at Suriname/South America on 1/18/2022 Total: 66633 Pop: 612984
+New cases: 1353 at Malta/Europe on 12/30/2021 Total: 51070 Pop: 526748
+New cases: 1360 at Bonaire Sint Eustatius and Saba/North America on 4/29/2021 Total: 1556 Pop: 26706
+New cases: 1366 at Senegal/Africa on 7/17/2021 Total: 50374 Pop: 16876720
+New cases: 1382 at Belize/North America on 12/3/2020 Total: 7236 Pop: 400031
+New cases: 1387 at Cape Verde/Africa on 1/6/2022 Total: 47376 Pop: 587925
+New cases: 1390 at Uzbekistan/Asia on 1/22/2022 Total: 212289 Pop: 34081449
+New cases: 1394 at Belize/North America on 1/24/2022 Total: 47147 Pop: 400031
+New cases: 1397 at Cape Verde/Africa on 1/5/2022 Total: 45989 Pop: 587925
+New cases: 1403 at Malta/Europe on 12/31/2021 Total: 52473 Pop: 526748
+New cases: 1404 at Suriname/South America on 1/17/2022 Total: 65282 Pop: 612984
+New cases: 1405 at Fiji/Oceania on 7/16/2021 Total: 15291 Pop: 924610
+New cases: 1413 at Faeroe Islands/Europe on 2/11/2022 Total: 27701 Pop: 52888
+New cases: 1451 at Faeroe Islands/Europe on 2/4/2022 Total: 22908 Pop: 52888
+New cases: 1469 at Cape Verde/Africa on 1/7/2022 Total: 48845 Pop: 587925
+New cases: 1478 at Uzbekistan/Asia on 1/23/2022 Total: 213767 Pop: 34081449
+New cases: 1482 at Tanzania/Africa on 5/10/2022 Total: 35354 Pop: 63588334
+New cases: 1497 at Bahamas/North America on 1/9/2022 Total: 28619 Pop: 407906
+New cases: 1502 at Cote d'Ivoire/Africa on 12/29/2021 Total: 66568 Pop: 27478249
+New cases: 1517 at Belize/North America on 2/1/2022 Total: 52004 Pop: 400031
+New cases: 1543 at Papua New Guinea/Oceania on 3/25/2022 Total: 43076 Pop: 9949437
+New cases: 1575 at Andorra/Europe on 1/10/2022 Total: 27983 Pop: 79034
+New cases: 1578 at Cote d'Ivoire/Africa on 12/30/2021 Total: 68146 Pop: 27478249
+New cases: 1591 at Lesotho/Africa on 12/24/2021 Total: 27595 Pop: 2281454
+New cases: 1593 at Jamaica/North America on 1/8/2022 Total: 101056 Pop: 2827694
+New cases: 1608 at Fiji/Oceania on 1/8/2022 Total: 57257 Pop: 924610
+New cases: 1642 at Eswatini/Africa on 12/16/2021 Total: 57842 Pop: 1192271
+New cases: 1676 at Andorra/Europe on 1/25/2022 Total: 34701 Pop: 79034
+New cases: 1677 at Malta/Europe on 3/30/2022 Total: 78779 Pop: 526748
+New cases: 1711 at Cayman Islands/North America on 1/22/2022 Total: 13734 Pop: 68136
+New cases: 1714 at Jamaica/North America on 1/11/2022 Total: 105172 Pop: 2827694
+New cases: 1722 at Senegal/Africa on 7/18/2021 Total: 52096 Pop: 16876720
+New cases: 1733 at Solomon Islands/Oceania on 5/10/2022 Total: 18174 Pop: 707851
+New cases: 1745 at Solomon Islands/Oceania on 4/25/2022 Total: 14182 Pop: 707851
+New cases: 1748 at Seychelles/Africa on 1/17/2022 Total: 32846 Pop: 106470
+New cases: 1750 at Equatorial Guinea/Africa on 7/31/2020 Total: 4821 Pop: 1634466
+New cases: 1753 at Cayman Islands/North America on 2/10/2022 Total: 17687 Pop: 68136
+New cases: 1786 at Marshall Islands/Oceania on 8/15/2022 Total: 3036 Pop: 42050
+New cases: 1838 at Benin/Africa on 8/23/2021 Total: 12021 Pop: 12996895
+New cases: 1854 at Fiji/Oceania on 7/15/2021 Total: 13886 Pop: 924610
+New cases: 1859 at Angola/Africa on 12/24/2021 Total: 70221 Pop: 34503774
+New cases: 1871 at Gabon/Africa on 12/27/2021 Total: 39910 Pop: 2341179
+New cases: 1881 at Ghana/Africa on 12/26/2021 Total: 136436 Pop: 32833031
+New cases: 1936 at Uganda/Africa on 1/2/2022 Total: 144540 Pop: 45853778
+New cases: 1964 at Nigeria/Africa on 1/21/2021 Total: 116655 Pop: 213401323
+New cases: 1968 at Jamaica/North America on 1/16/2022 Total: 112218 Pop: 2827694
+New cases: 1970 at Angola/Africa on 1/5/2022 Total: 86636 Pop: 34503774
+New cases: 1975 at Ghana/Africa on 8/2/2021 Total: 104994 Pop: 32833031
+New cases: 2028 at Curacao/North America on 1/14/2022 Total: 32892 Pop: 190338
+New cases: 2062 at Seychelles/Africa on 1/10/2022 Total: 29030 Pop: 106470
+New cases: 2068 at Seychelles/Africa on 1/13/2022 Total: 31098 Pop: 106470
+New cases: 2071 at North Macedonia/Europe on 1/21/2022 Total: 252947 Pop: 2103330
+New cases: 2083 at Rwanda/Africa on 12/29/2021 Total: 109070 Pop: 13461888
+New cases: 2115 at Madagascar/Africa on 2/5/2022 Total: 61434 Pop: 28915653
+New cases: 2131 at Bhutan/Asia on 4/13/2022 Total: 47187 Pop: 777486
+New cases: 2146 at Cayman Islands/North America on 2/3/2022 Total: 15934 Pop: 68136
+New cases: 2155 at Madagascar/Africa on 1/4/2022 Total: 52434 Pop: 28915653
+New cases: 2160 at Benin/Africa on 9/8/2021 Total: 19106 Pop: 12996895
+New cases: 2167 at Burundi/Africa on 9/22/2021 Total: 16356 Pop: 12551213
+New cases: 2200 at Bhutan/Asia on 4/12/2022 Total: 45056 Pop: 777486
+New cases: 2203 at Afghanistan/Asia on 6/18/2021 Total: 98734 Pop: 40099462
+New cases: 2208 at Afghanistan/Asia on 6/23/2021 Total: 107957 Pop: 40099462
+New cases: 2211 at Algeria/Africa on 1/22/2022 Total: 234536 Pop: 44177969
+New cases: 2215 at Algeria/Africa on 1/24/2022 Total: 238885 Pop: 44177969
+New cases: 2265 at North Macedonia/Europe on 1/18/2022 Total: 247663 Pop: 2103330
+New cases: 2267 at Kyrgyzstan/Asia on 7/23/2020 Total: 31247 Pop: 6527743
+New cases: 2291 at Bhutan/Asia on 4/6/2022 Total: 35437 Pop: 777486
+New cases: 2295 at Madagascar/Africa on 12/25/2021 Total: 49590 Pop: 28915653
+New cases: 2313 at Andorra/Europe on 1/20/2022 Total: 32201 Pop: 79034
+New cases: 2332 at North Macedonia/Europe on 1/25/2022 Total: 259328 Pop: 2103330
+New cases: 2410 at Uganda/Africa on 1/8/2022 Total: 152778 Pop: 45853778
+New cases: 2432 at Marshall Islands/Oceania on 8/16/2022 Total: 5468 Pop: 42050
+New cases: 2464 at Nigeria/Africa on 1/23/2021 Total: 120602 Pop: 213401323
+New cases: 2521 at Algeria/Africa on 1/25/2022 Total: 241406 Pop: 44177969
+New cases: 2537 at Kyrgyzstan/Asia on 7/19/2020 Total: 27143 Pop: 6527743
+New cases: 2566 at Benin/Africa on 9/1/2021 Total: 15932 Pop: 12996895
+New cases: 2567 at Burundi/Africa on 12/27/2021 Total: 26224 Pop: 12551213
+New cases: 2590 at Montenegro/Europe on 1/4/2022 Total: 177455 Pop: 627859
+New cases: 2602 at Namibia/Africa on 6/21/2021 Total: 75766 Pop: 2530151
+New cases: 2642 at Isle of Man/Europe on 6/29/2022 Total: 36463 Pop: 84263
+New cases: 2723 at Saint Vincent and the Grenadines/North America on 1/26/2022 Total: 9385 Pop: 104332
+New cases: 2745 at French Polynesia/Oceania on 8/23/2021 Total: 39117 Pop: 304032
+New cases: 2754 at Maldives/Asia on 1/31/2022 Total: 138880 Pop: 521458
+New cases: 2761 at Democratic Republic of Congo/Africa on 12/23/2021 Total: 70059 Pop: 95894118
+New cases: 2762 at Laos/Asia on 3/31/2022 Total: 176898 Pop: 7425058
+New cases: 2773 at Rwanda/Africa on 7/18/2021 Total: 57322 Pop: 13461888
+New cases: 2805 at French Polynesia/Oceania on 2/14/2022 Total: 56658 Pop: 304032
+New cases: 2813 at Maldives/Asia on 1/26/2022 Total: 125590 Pop: 521458
+New cases: 2819 at Laos/Asia on 3/24/2022 Total: 161866 Pop: 7425058
+New cases: 2823 at Tanzania/Africa on 12/29/2021 Total: 29306 Pop: 63588334
+New cases: 2832 at Albania/Europe on 1/18/2022 Total: 236486 Pop: 2854710
+New cases: 2838 at Maldives/Asia on 1/30/2022 Total: 136126 Pop: 521458
+New cases: 2848 at New Caledonia/Oceania on 2/7/2022 Total: 28628 Pop: 287800
+New cases: 2850 at Democratic Republic of Congo/Africa on 12/20/2021 Total: 67298 Pop: 95894118
+New cases: 2858 at Cote d'Ivoire/Africa on 12/31/2021 Total: 71004 Pop: 27478249
+New cases: 2960 at Montenegro/Europe on 1/6/2022 Total: 183220 Pop: 627859
+New cases: 2963 at Albania/Europe on 7/15/2022 Total: 293917 Pop: 2854710
+New cases: 3063 at Solomon Islands/Oceania on 6/1/2022 Total: 21237 Pop: 707851
+New cases: 3072 at Rwanda/Africa on 7/26/2021 Total: 66018 Pop: 13461888
+New cases: 3130 at Marshall Islands/Oceania on 8/24/2022 Total: 13932 Pop: 42050
+New cases: 3221 at Isle of Man/Europe on 1/4/2022 Total: 16975 Pop: 84263
+New cases: 3241 at Venezuela/South America on 2/3/2022 Total: 491016 Pop: 28199866
+New cases: 3243 at Afghanistan/Asia on 6/17/2021 Total: 96531 Pop: 40099462
+New cases: 3268 at Namibia/Africa on 6/30/2021 Total: 89917 Pop: 2530151
+New cases: 3328 at Kenya/Africa on 12/22/2021 Total: 270899 Pop: 53005614
+New cases: 3343 at New Caledonia/Oceania on 2/14/2022 Total: 38386 Pop: 287800
+New cases: 3624 at Mozambique/Africa on 12/29/2021 Total: 179272 Pop: 32077072
+New cases: 3746 at Kenya/Africa on 12/23/2021 Total: 274645 Pop: 53005614
+New cases: 3749 at Kenya/Africa on 12/25/2021 Total: 281358 Pop: 53005614
+New cases: 3812 at Honduras/North America on 7/26/2021 Total: 290447 Pop: 10278346
+New cases: 3915 at Laos/Asia on 3/27/2022 Total: 167993 Pop: 7425058
+New cases: 3917 at Kosovo/Europe on 1/27/2022 Total: 194710 Pop: 1782115
+New cases: 3966 at United Arab Emirates/Asia on 1/28/2021 Total: 293052 Pop: 9365144
+New cases: 3977 at United Arab Emirates/Asia on 2/3/2021 Total: 313626 Pop: 9365144
+New cases: 4032 at Armenia/Asia on 2/5/2022 Total: 387490 Pop: 2790974
+New cases: 4043 at Honduras/North America on 8/13/2021 Total: 316235 Pop: 10278346
+New cases: 4044 at Central African Republic/Africa on 8/10/2021 Total: 11195 Pop: 5457154
+New cases: 4169 at Qatar/Asia on 1/11/2022 Total: 278698 Pop: 2688235
+New cases: 4187 at Qatar/Asia on 1/13/2022 Total: 287091 Pop: 2688235
+New cases: 4192 at Armenia/Asia on 2/4/2022 Total: 383458 Pop: 2790974
+New cases: 4206 at Qatar/Asia on 1/12/2022 Total: 282904 Pop: 2688235
+New cases: 4210 at Namibia/Africa on 5/22/2022 Total: 164850 Pop: 2530151
+New cases: 4257 at Kosovo/Europe on 3/29/2021 Total: 88429 Pop: 1782115
+New cases: 4260 at Egypt/Africa on 2/14/2022 Total: 457081 Pop: 109262178
+New cases: 4371 at Libya/Africa on 2/2/2022 Total: 438303 Pop: 6735277
+New cases: 4375 at Egypt/Africa on 3/28/2022 Total: 505264 Pop: 109262178
+New cases: 4388 at Armenia/Asia on 2/3/2022 Total: 379266 Pop: 2790974
+New cases: 4397 at Kosovo/Europe on 1/26/2022 Total: 190793 Pop: 1782115
+New cases: 4418 at Venezuela/South America on 1/19/2022 Total: 461059 Pop: 28199866
+New cases: 4425 at Luxembourg/Europe on 1/17/2022 Total: 127765 Pop: 639321
+New cases: 4429 at Libya/Africa on 1/31/2022 Total: 429666 Pop: 6735277
+New cases: 4471 at United Arab Emirates/Asia on 6/11/2021 Total: 593894 Pop: 9365144
+New cases: 4481 at Democratic Republic of Congo/Africa on 1/4/2022 Total: 79274 Pop: 95894118
+New cases: 4507 at Bosnia and Herzegovina/Europe on 1/17/2022 Total: 317692 Pop: 3270943
+New cases: 4550 at Luxembourg/Europe on 1/31/2022 Total: 157985 Pop: 639321
+New cases: 4572 at Bosnia and Herzegovina/Europe on 1/24/2022 Total: 334141 Pop: 3270943
+New cases: 4710 at Burundi/Africa on 1/4/2022 Total: 32076 Pop: 12551213
+New cases: 4789 at Albania/Europe on 1/9/2022 Total: 219694 Pop: 2854710
+New cases: 4861 at Mozambique/Africa on 12/31/2021 Total: 189080 Pop: 32077072
+New cases: 4947 at Mozambique/Africa on 12/30/2021 Total: 184219 Pop: 32077072
+New cases: 4998 at Ethiopia/Africa on 12/30/2021 Total: 415443 Pop: 120283026
+New cases: 5003 at French Polynesia/Oceania on 10/6/2021 Total: 45181 Pop: 304032
+New cases: 5013 at Ethiopia/Africa on 12/25/2021 Total: 395750 Pop: 120283026
+New cases: 5035 at Angola/Africa on 12/28/2021 Total: 76787 Pop: 34503774
+New cases: 5081 at Zambia/Africa on 12/31/2021 Total: 254274 Pop: 19473125
+New cases: 5166 at Brunei/Asia on 7/25/2022 Total: 200279 Pop: 445373
+New cases: 5185 at Ethiopia/Africa on 12/28/2021 Total: 405745 Pop: 120283026
+New cases: 5254 at Bosnia and Herzegovina/Europe on 1/10/2022 Total: 302587 Pop: 3270943
+New cases: 5255 at Zambia/Africa on 12/29/2021 Total: 243638 Pop: 19473125
+New cases: 5269 at Brunei/Asia on 7/18/2022 Total: 188219 Pop: 445373
+New cases: 5497 at Luxembourg/Europe on 1/24/2022 Total: 143067 Pop: 639321
+New cases: 5516 at Egypt/Africa on 3/21/2022 Total: 500889 Pop: 109262178
+New cases: 5517 at Oman/Asia on 6/27/2021 Total: 262059 Pop: 4520471
+New cases: 5555 at Zambia/Africa on 12/30/2021 Total: 249193 Pop: 19473125
+New cases: 5628 at Saudi Arabia/Asia on 1/14/2022 Total: 604672 Pop: 35950396
+New cases: 5693 at Oman/Asia on 1/30/2022 Total: 336460 Pop: 4520471
+New cases: 5694 at Libya/Africa on 1/30/2022 Total: 425237 Pop: 6735277
+New cases: 5873 at Saudi Arabia/Asia on 1/18/2022 Total: 626808 Pop: 35950396
+New cases: 5928 at Saudi Arabia/Asia on 1/19/2022 Total: 632736 Pop: 35950396
+New cases: 5948 at New Caledonia/Oceania on 2/23/2022 Total: 51410 Pop: 287800
+New cases: 6146 at Oman/Asia on 2/6/2022 Total: 352187 Pop: 4520471
+New cases: 6158 at Nigeria/Africa on 12/22/2021 Total: 231413 Pop: 213401323
+New cases: 6194 at Myanmar/Asia on 7/16/2021 Total: 218739 Pop: 53798084
+New cases: 6222 at Iceland/Europe on 3/7/2022 Total: 147151 Pop: 370335
+New cases: 6471 at Iceland/Europe on 2/28/2022 Total: 129844 Pop: 370335
+New cases: 6515 at Kuwait/Asia on 1/27/2022 Total: 521341 Pop: 4250114
+New cases: 6592 at Kuwait/Asia on 2/2/2022 Total: 558745 Pop: 4250114
+New cases: 6701 at Myanmar/Asia on 7/22/2021 Total: 253364 Pop: 53798084
+New cases: 6889 at Cameroon/Africa on 9/29/2021 Total: 92303 Pop: 27198628
+New cases: 6913 at Kuwait/Asia on 1/28/2022 Total: 528254 Pop: 4250114
+New cases: 6925 at Lesotho/Africa on 10/1/2021 Total: 21320 Pop: 2281454
+New cases: 7047 at Cameroon/Africa on 3/26/2021 Total: 47669 Pop: 27198628
+New cases: 7083 at Myanmar/Asia on 7/14/2021 Total: 208357 Pop: 53798084
+New cases: 7153 at Dominican Republic/North America on 1/19/2022 Total: 517611 Pop: 11117874
+New cases: 7174 at Dominican Republic/North America on 1/14/2022 Total: 489631 Pop: 11117874
+New cases: 7380 at Brunei/Asia on 2/20/2022 Total: 34979 Pop: 445373
+New cases: 7408 at Iceland/Europe on 2/21/2022 Total: 109494 Pop: 370335
+New cases: 7439 at Dominican Republic/North America on 1/12/2022 Total: 476504 Pop: 11117874
+New cases: 7504 at Guatemala/North America on 7/14/2022 Total: 970621 Pop: 17608483
+New cases: 7510 at Zimbabwe/Africa on 12/17/2021 Total: 189567 Pop: 15993524
+New cases: 7632 at Azerbaijan/Asia on 2/10/2022 Total: 725777 Pop: 10312992
+New cases: 7704 at Azerbaijan/Asia on 2/5/2022 Total: 691180 Pop: 10312992
+New cases: 7747 at Guatemala/North America on 7/13/2022 Total: 963117 Pop: 17608483
+New cases: 7779 at Azerbaijan/Asia on 2/9/2022 Total: 718145 Pop: 10312992
+New cases: 7811 at Estonia/Europe on 2/5/2022 Total: 373900 Pop: 1328701
+New cases: 7854 at Bahrain/Asia on 2/2/2022 Total: 390602 Pop: 1463265
+New cases: 8002 at Estonia/Europe on 2/4/2022 Total: 366089 Pop: 1328701
+New cases: 8063 at Bahrain/Asia on 2/3/2022 Total: 398665 Pop: 1463265
+New cases: 8173 at Bahrain/Asia on 2/1/2022 Total: 382748 Pop: 1463265
+New cases: 8183 at Pakistan/Asia on 1/27/2022 Total: 1402070 Pop: 231402116
+New cases: 8197 at Botswana/Africa on 8/9/2021 Total: 130771 Pop: 2588423
+New cases: 8438 at Estonia/Europe on 2/16/2022 Total: 435448 Pop: 1328701
+New cases: 8495 at Pakistan/Asia on 5/6/2021 Total: 850131 Pop: 231402116
+New cases: 8530 at Botswana/Africa on 8/2/2021 Total: 115220 Pop: 2588423
+New cases: 8783 at Belarus/Europe on 2/12/2022 Total: 823045 Pop: 9578168
+New cases: 8921 at Belarus/Europe on 2/13/2022 Total: 831966 Pop: 9578168
+New cases: 8967 at Sri Lanka/Asia on 8/25/2021 Total: 407768 Pop: 21773441
+New cases: 9027 at Zimbabwe/Africa on 12/8/2021 Total: 150628 Pop: 15993524
+New cases: 9185 at Zimbabwe/Africa on 12/11/2021 Total: 165002 Pop: 15993524
+New cases: 9199 at Lebanon/Asia on 1/27/2022 Total: 891982 Pop: 5592631
+New cases: 9334 at Moldova/Europe on 8/16/2022 Total: 561196 Pop: 3061506
+New cases: 9432 at Nepal/Asia on 1/25/2022 Total: 927880 Pop: 30034989
+New cases: 9446 at Lebanon/Asia on 2/3/2022 Total: 948728 Pop: 5592631
+New cases: 9502 at Nepal/Asia on 1/19/2022 Total: 877717 Pop: 30034989
+New cases: 9528 at Moldova/Europe on 8/3/2022 Total: 541715 Pop: 3061506
+New cases: 9668 at Cameroon/Africa on 4/1/2021 Total: 57337 Pop: 27198628
+New cases: 9764 at Cuba/North America on 8/20/2021 Total: 564011 Pop: 11256372
+New cases: 9772 at Cuba/North America on 8/17/2021 Total: 536609 Pop: 11256372
+New cases: 9907 at Cuba/North America on 8/24/2021 Total: 602526 Pop: 11256372
+New cases: 9912 at Sri Lanka/Asia on 8/30/2021 Total: 436081 Pop: 21773441
+New cases: 9946 at Guatemala/North America on 7/29/2022 Total: 1037751 Pop: 17608483
+New cases: 10052 at Nepal/Asia on 1/20/2022 Total: 887769 Pop: 30034989
+New cases: 10147 at Moldova/Europe on 8/10/2022 Total: 551862 Pop: 3061506
+New cases: 10760 at Lebanon/Asia on 2/2/2022 Total: 939282 Pop: 5592631
+New cases: 10828 at Morocco/Africa on 8/12/2021 Total: 731084 Pop: 37076584
+New cases: 10879 at Cyprus/Europe on 7/1/2022 Total: 515596 Pop: 896007
+New cases: 10967 at El Salvador/North America on 8/30/2022 Total: 201785 Pop: 6314167
+New cases: 11059 at Mongolia/Asia on 1/21/2022 Total: 771893 Pop: 3347782
+New cases: 11114 at Croatia/Europe on 1/21/2022 Total: 859264 Pop: 4060135
+New cases: 11143 at Bulgaria/Europe on 2/1/2022 Total: 963108 Pop: 6885868
+New cases: 11170 at Belarus/Europe on 7/5/2022 Total: 994037 Pop: 9578168
+New cases: 11181 at Bulgaria/Europe on 1/18/2022 Total: 841785 Pop: 6885868
+New cases: 11324 at El Salvador/North America on 7/8/2022 Total: 180970 Pop: 6314167
+New cases: 11343 at Croatia/Europe on 1/20/2022 Total: 848150 Pop: 4060135
+New cases: 11358 at Morocco/Africa on 8/6/2021 Total: 676683 Pop: 37076584
+New cases: 11366 at Sri Lanka/Asia on 9/5/2021 Total: 462767 Pop: 21773441
+New cases: 11505 at Kyrgyzstan/Asia on 7/18/2020 Total: 24606 Pop: 6527743
+New cases: 11536 at Ecuador/South America on 4/24/2020 Total: 22719 Pop: 17797737
+New cases: 11566 at Mauritius/Africa on 3/10/2022 Total: 181362 Pop: 1298915
+New cases: 11642 at Mauritius/Africa on 3/24/2022 Total: 204200 Pop: 1298915
+New cases: 11812 at Croatia/Europe on 1/26/2022 Total: 899174 Pop: 4060135
+New cases: 11835 at Latvia/Europe on 2/9/2022 Total: 476730 Pop: 1873919
+New cases: 11837 at Latvia/Europe on 2/22/2022 Total: 601600 Pop: 1873919
+New cases: 11992 at Latvia/Europe on 2/19/2022 Total: 579168 Pop: 1873919
+New cases: 12039 at Morocco/Africa on 8/5/2021 Total: 665325 Pop: 37076584
+New cases: 12073 at Pakistan/Asia on 6/14/2020 Total: 144478 Pop: 231402116
+New cases: 12310 at Mongolia/Asia on 1/26/2022 Total: 812089 Pop: 3347782
+New cases: 12321 at Ecuador/South America on 2/10/2022 Total: 781470 Pop: 17797737
+New cases: 12399 at Bulgaria/Europe on 1/25/2022 Total: 903676 Pop: 6885868
+New cases: 12677 at El Salvador/North America on 2/14/2022 Total: 147786 Pop: 6314167
+New cases: 12734 at Iraq/Asia on 8/2/2021 Total: 1648727 Pop: 43533592
+New cases: 12874 at Uruguay/South America on 1/21/2022 Total: 569037 Pop: 3426260
+New cases: 12890 at Honduras/North America on 2/16/2022 Total: 404764 Pop: 10278346
+New cases: 12997 at Uruguay/South America on 1/20/2022 Total: 556163 Pop: 3426260
+New cases: 13259 at Iraq/Asia on 7/29/2021 Total: 1603787 Pop: 43533592
+New cases: 13515 at Iraq/Asia on 7/28/2021 Total: 1590528 Pop: 43533592
+New cases: 13612 at Uruguay/South America on 1/28/2022 Total: 644631 Pop: 3426260
+New cases: 14771 at Lithuania/Europe on 2/2/2022 Total: 730245 Pop: 2786651
+New cases: 14876 at Lithuania/Europe on 2/4/2022 Total: 760533 Pop: 2786651
+New cases: 14914 at Cyprus/Europe on 7/8/2022 Total: 530510 Pop: 896007
+New cases: 14991 at Paraguay/South America on 7/15/2022 Total: 688820 Pop: 6703799
+New cases: 15386 at Cyprus/Europe on 7/15/2022 Total: 545896 Pop: 896007
+New cases: 15412 at Lithuania/Europe on 2/3/2022 Total: 745657 Pop: 2786651
+New cases: 15989 at Bangladesh/Asia on 8/2/2021 Total: 1280317 Pop: 169356251
+New cases: 16033 at Bangladesh/Asia on 1/25/2022 Total: 1715997 Pop: 169356251
+New cases: 16230 at Bangladesh/Asia on 7/28/2021 Total: 1210982 Pop: 169356251
+New cases: 16441 at Kazakhstan/Asia on 1/20/2022 Total: 1202369 Pop: 19196465
+New cases: 16860 at Slovenia/Europe on 2/3/2022 Total: 762840 Pop: 2119410
+New cases: 17491 at Slovenia/Europe on 1/26/2022 Total: 642342 Pop: 2119410
+New cases: 17670 at Ecuador/South America on 2/14/2022 Total: 799140 Pop: 17797737
+New cases: 17793 at Panama/North America on 1/23/2022 Total: 644683 Pop: 4351267
+New cases: 18604 at Panama/North America on 1/14/2022 Total: 558676 Pop: 4351267
+New cases: 18757 at Kazakhstan/Asia on 7/1/2020 Total: 41065 Pop: 19196465
+New cases: 19013 at Bolivia/South America on 1/8/2022 Total: 671832 Pop: 12079472
+New cases: 19722 at Panama/North America on 1/26/2022 Total: 669860 Pop: 4351267
+New cases: 19724 at Palestine/Asia on 1/31/2022 Total: 524716 Pop: 5133392
+New cases: 19901 at Serbia/Europe on 1/25/2022 Total: 1579847 Pop: 6871547
+New cases: 19923 at Tunisia/Africa on 1/22/2022 Total: 846761 Pop: 12262946
+New cases: 20860 at Bolivia/South America on 1/20/2022 Total: 795087 Pop: 12079472
+New cases: 20903 at Tunisia/Africa on 7/12/2022 Total: 1087030 Pop: 12262946
+New cases: 21324 at Uganda/Africa on 8/23/2021 Total: 118777 Pop: 45853778
+New cases: 21874 at Palestine/Asia on 2/7/2022 Total: 578424 Pop: 5133392
+New cases: 22113 at Jordan/Asia on 2/14/2022 Total: 1490473 Pop: 11148278
+New cases: 22629 at Low income/ on 12/29/2021 Total: 1770345 Pop: 701926970
+New cases: 22720 at Jordan/Asia on 2/8/2022 Total: 1374453 Pop: 11148278
+New cases: 23332 at Slovenia/Europe on 2/2/2022 Total: 745980 Pop: 2119410
+New cases: 23611 at Bolivia/South America on 1/16/2022 Total: 749070 Pop: 12079472
+New cases: 23824 at Low income/ on 8/23/2021 Total: 1399545 Pop: 701926970
+New cases: 24307 at Tanzania/Africa on 9/23/2021 Total: 25674 Pop: 63588334
+New cases: 24556 at Mongolia/Asia on 10/31/2021 Total: 590800 Pop: 3347782
+New cases: 24836 at Singapore/Asia on 2/19/2022 Total: 576355 Pop: 5453600
+New cases: 24958 at Norway/Europe on 1/21/2022 Total: 596613 Pop: 5403021
+New cases: 25086 at Norway/Europe on 2/9/2022 Total: 962407 Pop: 5403021
+New cases: 25161 at Georgia/Asia on 2/9/2022 Total: 1375615 Pop: 3757980
+New cases: 25502 at Jordan/Asia on 3/14/2022 Total: 1680179 Pop: 11148278
+New cases: 25503 at Paraguay/South America on 1/17/2022 Total: 501189 Pop: 6703799
+New cases: 25833 at Paraguay/South America on 1/24/2022 Total: 542388 Pop: 6703799
+New cases: 26032 at Singapore/Asia on 2/22/2022 Total: 622293 Pop: 5453600
+New cases: 26109 at Norway/Europe on 2/8/2022 Total: 937321 Pop: 5403021
+New cases: 26122 at Ireland/Europe on 1/8/2022 Total: 956720 Pop: 4986526
+New cases: 26320 at Georgia/Asia on 2/2/2022 Total: 1226444 Pop: 3757980
+New cases: 26389 at South Africa/Africa on 12/15/2021 Total: 3231031 Pop: 59392255
+New cases: 26485 at South Africa/Africa on 7/3/2021 Total: 2046311 Pop: 59392255
+New cases: 26524 at Georgia/Asia on 9/12/2022 Total: 1762206 Pop: 3757980
+New cases: 26570 at Serbia/Europe on 1/12/2022 Total: 1386114 Pop: 6871547
+New cases: 27340 at Tunisia/Africa on 7/19/2022 Total: 1114370 Pop: 12262946
+New cases: 27584 at China/Asia on 4/11/2022 Total: 434413 Pop: 1425893464
+New cases: 28029 at Thailand/Asia on 4/2/2022 Total: 3684755 Pop: 71601103
+New cases: 28236 at Slovakia/Europe on 2/10/2022 Total: 1794150 Pop: 5447622
+New cases: 28379 at Thailand/Asia on 4/1/2022 Total: 3656726 Pop: 71601103
+New cases: 28504 at Slovakia/Europe on 2/16/2022 Total: 1920150 Pop: 5447622
+New cases: 28873 at Costa Rica/North America on 7/23/2022 Total: 989213 Pop: 5153957
+New cases: 29368 at Low income/ on 1/4/2022 Total: 1873788 Pop: 701926970
+New cases: 29387 at China/Asia on 4/13/2022 Total: 488360 Pop: 1425893464
+New cases: 29520 at China/Asia on 4/14/2022 Total: 517880 Pop: 1425893464
+New cases: 29754 at Finland/Europe on 5/5/2022 Total: 1052767 Pop: 5535992
+New cases: 30006 at Mauritius/Africa on 1/25/2022 Total: 100224 Pop: 1298915
+New cases: 30356 at Palestine/Asia on 10/6/2021 Total: 439845 Pop: 5133392
+New cases: 32800 at Malaysia/Asia on 3/11/2022 Total: 3774786 Pop: 33573874
+New cases: 33209 at Malaysia/Asia on 3/4/2022 Total: 3561766 Pop: 33573874
+New cases: 33406 at Malaysia/Asia on 3/5/2022 Total: 3595172 Pop: 33573874
+New cases: 33594 at Colombia/South America on 6/26/2021 Total: 4126340 Pop: 51516562
+New cases: 33633 at Slovakia/Europe on 9/14/2022 Total: 2614381 Pop: 5447622
+New cases: 33716 at Hungary/Europe on 2/7/2022 Total: 1650562 Pop: 9709786
+New cases: 34057 at Ireland/Europe on 1/3/2022 Total: 845897 Pop: 4986526
+New cases: 34614 at New Zealand/Oceania on 7/28/2022 Total: 1605446 Pop: 5129728
+New cases: 34923 at Colombia/South America on 1/14/2022 Total: 5475904 Pop: 51516562
+New cases: 35575 at Colombia/South America on 1/15/2022 Total: 5511479 Pop: 51516562
+New cases: 35802 at Romania/Europe on 2/2/2022 Total: 2292345 Pop: 19328560
+New cases: 36269 at Romania/Europe on 2/8/2022 Total: 2455048 Pop: 19328560
+New cases: 36737 at Serbia/Europe on 1/27/2022 Total: 1616584 Pop: 6871547
+New cases: 37017 at Philippines/Asia on 1/16/2022 Total: 3205396 Pop: 113880328
+New cases: 37103 at Philippines/Asia on 1/14/2022 Total: 3129512 Pop: 113880328
+New cases: 37875 at South Africa/Africa on 12/12/2021 Total: 3167497 Pop: 59392255
+New cases: 38493 at Chile/South America on 2/13/2022 Total: 2621427 Pop: 19493184
+New cases: 38707 at Chile/South America on 2/4/2022 Total: 2296712 Pop: 19493184
+New cases: 38867 at Philippines/Asia on 1/15/2022 Total: 3168379 Pop: 113880328
+New cases: 39135 at New Zealand/Oceania on 3/16/2022 Total: 438478 Pop: 5129728
+New cases: 39162 at Costa Rica/North America on 7/26/2022 Total: 1028375 Pop: 5153957
+New cases: 39252 at Singapore/Asia on 3/9/2022 Total: 885593 Pop: 5453600
+New cases: 39773 at New Zealand/Oceania on 3/11/2022 Total: 347577 Pop: 5129728
+New cases: 39928 at Hungary/Europe on 1/24/2022 Total: 1441385 Pop: 9709786
+New cases: 40018 at Romania/Europe on 2/1/2022 Total: 2256543 Pop: 19328560
+New cases: 41194 at Iran/Asia on 8/16/2021 Total: 4467015 Pop: 87923432
+New cases: 41576 at Botswana/Africa on 3/30/2022 Total: 305526 Pop: 2588423
+New cases: 41651 at Chile/South America on 2/11/2022 Total: 2545819 Pop: 19493184
+New cases: 42541 at Iran/Asia on 8/11/2021 Total: 4281217 Pop: 87923432
+New cases: 43199 at Ireland/Europe on 1/11/2022 Total: 1021303 Pop: 4986526
+New cases: 43477 at Ukraine/Europe on 2/10/2022 Total: 4625614 Pop: 43531422
+New cases: 43836 at Ukraine/Europe on 2/5/2022 Total: 4452612 Pop: 43531422
+New cases: 45022 at Ukraine/Europe on 2/4/2022 Total: 4408776 Pop: 43531422
+New cases: 45047 at Hungary/Europe on 1/31/2022 Total: 1553405 Pop: 9709786
+New cases: 47149 at Thailand/Asia on 4/13/2022 Total: 3973003 Pop: 71601103
+New cases: 47182 at Finland/Europe on 8/4/2022 Total: 1218216 Pop: 5535992
+New cases: 47849 at Czechia/Europe on 2/15/2022 Total: 3451318 Pop: 10510750
+New cases: 50228 at Iran/Asia on 8/17/2021 Total: 4517243 Pop: 87923432
+New cases: 50889 at Finland/Europe on 4/21/2022 Total: 1000472 Pop: 5535992
+New cases: 51951 at Austria/Europe on 3/18/2022 Total: 3368804 Pop: 8922082
+New cases: 53747 at Denmark/Europe on 2/10/2022 Total: 2196556 Pop: 5854240
+New cases: 54866 at Czechia/Europe on 1/27/2022 Total: 2888827 Pop: 10510750
+New cases: 54899 at Austria/Europe on 3/24/2022 Total: 3623157 Pop: 8922082
+New cases: 54942 at Peru/South America on 1/19/2022 Total: 2723166 Pop: 33715472
+New cases: 55001 at Denmark/Europe on 2/2/2022 Total: 1842936 Pop: 5854240
+New cases: 55060 at Canada/North America on 12/29/2021 Total: 2137845 Pop: 38155012
+New cases: 55120 at Denmark/Europe on 2/9/2022 Total: 2142809 Pop: 5854240
+New cases: 55406 at Costa Rica/North America on 7/20/2022 Total: 960340 Pop: 5153957
+New cases: 56051 at Poland/Europe on 2/2/2022 Total: 4981321 Pop: 38307726
+New cases: 56883 at Peru/South America on 1/20/2022 Total: 2780049 Pop: 33715472
+New cases: 57265 at Poland/Europe on 1/28/2022 Total: 4752700 Pop: 38307726
+New cases: 57378 at Czechia/Europe on 2/2/2022 Total: 3100462 Pop: 10510750
+New cases: 57641 at Africa/ on 1/6/2022 Total: 10018246 Pop: 1392394303
+New cases: 57659 at Poland/Europe on 1/27/2022 Total: 4695435 Pop: 38307726
+New cases: 58091 at Africa/ on 1/4/2022 Total: 9905369 Pop: 1392394303
+New cases: 58461 at Canada/North America on 1/10/2022 Total: 2613377 Pop: 38155012
+New cases: 59470 at Peru/South America on 1/21/2022 Total: 2839519 Pop: 33715472
+New cases: 60523 at Africa/ on 12/30/2021 Total: 9703618 Pop: 1392394303
+New cases: 61488 at Indonesia/Asia on 2/23/2022 Total: 5350902 Pop: 273753191
+New cases: 63678 at Canada/North America on 4/13/2022 Total: 3616387 Pop: 38155012
+New cases: 63956 at Indonesia/Asia on 2/17/2022 Total: 5030002 Pop: 273753191
+New cases: 64038 at Austria/Europe on 3/17/2022 Total: 3316853 Pop: 8922082
+New cases: 64718 at Indonesia/Asia on 2/16/2022 Total: 4966046 Pop: 273753191
+New cases: 66121 at Kazakhstan/Asia on 7/23/2021 Total: 641388 Pop: 19196465
+New cases: 68615 at Portugal/Europe on 6/14/2022 Total: 4985742 Pop: 10290103
+New cases: 69146 at Switzerland/Europe on 3/14/2022 Total: 3141904 Pop: 8691406
+New cases: 70701 at Portugal/Europe on 6/7/2022 Total: 4846230 Pop: 10290103
+New cases: 73296 at Belgium/Europe on 1/17/2022 Total: 2484027 Pop: 11611420
+New cases: 74534 at Hong Kong/Asia on 2/26/2022 Total: 168590 Pop: 7494578
+New cases: 76341 at Hong Kong/Asia on 3/2/2022 Total: 407743 Pop: 7494578
+New cases: 76991 at Hong Kong/Asia on 3/3/2022 Total: 484734 Pop: 7494578
+New cases: 77281 at Portugal/Europe on 1/31/2022 Total: 2689167 Pop: 10290103
+New cases: 87281 at Switzerland/Europe on 1/24/2022 Total: 1966600 Pop: 8691406
+New cases: 89462 at Switzerland/Europe on 1/31/2022 Total: 2220539 Pop: 8691406
+New cases: 93983 at Israel/Asia on 1/26/2022 Total: 2599449 Pop: 9291000
+New cases: 94265 at Mexico/North America on 1/28/2022 Total: 4873561 Pop: 126705138
+New cases: 94796 at Taiwan/Asia on 5/27/2022 Total: 1735067 Pop: 23859912
+New cases: 97248 at Sweden/Europe on 1/18/2022 Total: 1657611 Pop: 10467097
+New cases: 99314 at Belgium/Europe on 1/31/2022 Total: 3155239 Pop: 11611420
+New cases: 100279 at Mexico/North America on 1/21/2022 Total: 4595589 Pop: 126705138
+New cases: 105818 at Netherlands/Europe on 1/31/2022 Total: 4547587 Pop: 17501696
+New cases: 109895 at Mexico/North America on 1/19/2022 Total: 4495310 Pop: 126705138
+New cases: 112227 at Netherlands/Europe on 1/30/2022 Total: 4441769 Pop: 17501696
+New cases: 112867 at Australia/Oceania on 1/15/2022 Total: 1726116 Pop: 25921089
+New cases: 113454 at Sweden/Europe on 2/1/2022 Total: 2183910 Pop: 10467097
+New cases: 113862 at Oceania/ on 1/15/2022 Total: 1898125 Pop: 44491772
+New cases: 125193 at Greece/Europe on 8/2/2022 Total: 4474616 Pop: 10445365
+New cases: 128185 at Australia/Oceania on 1/13/2022 Total: 1526961 Pop: 25921089
+New cases: 128384 at Oceania/ on 1/13/2022 Total: 1697597 Pop: 44491772
+New cases: 128935 at Taiwan/Asia on 5/9/2022 Total: 397504 Pop: 23859912
+New cases: 128954 at Taiwan/Asia on 5/14/2022 Total: 699824 Pop: 23859912
+New cases: 131082 at Argentina/South America on 1/12/2022 Total: 6664717 Pop: 45276780
+New cases: 133480 at Belgium/Europe on 1/24/2022 Total: 2830719 Pop: 11611420
+New cases: 134439 at Argentina/South America on 1/11/2022 Total: 6533635 Pop: 45276780
+New cases: 138652 at Greece/Europe on 7/27/2022 Total: 4349423 Pop: 10445365
+New cases: 138985 at Sweden/Europe on 1/25/2022 Total: 1922990 Pop: 10467097
+New cases: 139853 at Argentina/South America on 1/14/2022 Total: 6932972 Pop: 45276780
+New cases: 175271 at Australia/Oceania on 1/12/2022 Total: 1398776 Pop: 25921089
+New cases: 176088 at Oceania/ on 1/12/2022 Total: 1569213 Pop: 44491772
+New cases: 195813 at Russia/Europe on 2/13/2022 Total: 13923951 Pop: 145102755
+New cases: 201955 at Russia/Europe on 2/12/2022 Total: 13728138 Pop: 145102755
+New cases: 202211 at Russia/Europe on 2/11/2022 Total: 13526183 Pop: 145102755
+New cases: 212234 at Israel/Asia on 1/24/2022 Total: 2424823 Pop: 9291000
+New cases: 214392 at United Kingdom/Europe on 3/28/2022 Total: 20905515 Pop: 67281040
+New cases: 218705 at United Kingdom/Europe on 1/4/2022 Total: 13641520 Pop: 67281040
+New cases: 219430 at Italy/Europe on 1/6/2022 Total: 6975465 Pop: 59240330
+New cases: 220519 at Italy/Europe on 1/11/2022 Total: 7774863 Pop: 59240330
+New cases: 225672 at United Kingdom/Europe on 3/21/2022 Total: 20319434 Pop: 67281040
+New cases: 228123 at Italy/Europe on 1/18/2022 Total: 9018425 Pop: 59240330
+New cases: 229702 at Brazil/South America on 1/27/2022 Total: 24789795 Pop: 214326223
+New cases: 232253 at Turkey/Asia on 8/15/2022 Total: 16528070 Pop: 84775404
+New cases: 243295 at Israel/Asia on 1/19/2022 Total: 2035425 Pop: 9291000
+New cases: 253192 at Japan/Asia on 8/20/2022 Total: 16962177 Pop: 124612530
+New cases: 255427 at Japan/Asia on 8/18/2022 Total: 16448037 Pop: 124612530
+New cases: 260806 at Brazil/South America on 1/28/2022 Total: 25050601 Pop: 214326223
+New cases: 260948 at Japan/Asia on 8/19/2022 Total: 16708985 Pop: 124612530
+New cases: 287149 at Brazil/South America on 2/3/2022 Total: 26107894 Pop: 214326223
+New cases: 305432 at Spain/Europe on 1/24/2022 Total: 9280890 Pop: 47486935
+New cases: 318387 at Germany/Europe on 3/24/2022 Total: 19596530 Pop: 83408554
+New cases: 331467 at Spain/Europe on 1/17/2022 Total: 8424503 Pop: 47486935
+New cases: 353965 at Vietnam/Asia on 3/17/2022 Total: 7174423 Pop: 97468028
+New cases: 365424 at Turkey/Asia on 7/29/2022 Total: 15889495 Pop: 84775404
+New cases: 367629 at Greece/Europe on 7/19/2022 Total: 4210771 Pop: 10445365
+New cases: 372766 at Spain/Europe on 1/3/2022 Total: 6667511 Pop: 47486935
+New cases: 380399 at Netherlands/Europe on 2/7/2022 Total: 5359455 Pop: 17501696
+New cases: 403405 at India/Asia on 5/8/2021 Total: 22296081 Pop: 1407563842
+New cases: 406322 at Turkey/Asia on 8/6/2022 Total: 16295817 Pop: 84775404
+New cases: 412431 at India/Asia on 5/5/2021 Total: 21077410 Pop: 1407563842
+New cases: 414188 at India/Asia on 5/6/2021 Total: 21491598 Pop: 1407563842
+New cases: 416714 at Germany/Europe on 4/6/2022 Total: 22265788 Pop: 83408554
+New cases: 424528 at South Korea/Asia on 3/29/2022 Total: 12774956 Pop: 51830139
+New cases: 424729 at Vietnam/Asia on 3/19/2022 Total: 7791841 Pop: 97468028
+New cases: 436167 at France/Europe on 1/19/2022 Total: 15225205 Pop: 67422000
+New cases: 447115 at South America/ on 1/28/2022 Total: 47775568 Pop: 433956670
+New cases: 453547 at South America/ on 1/20/2022 Total: 44635486 Pop: 433956670
+New cases: 454212 at Vietnam/Asia on 3/12/2022 Total: 5903147 Pop: 97468028
+New cases: 460631 at South America/ on 1/19/2022 Total: 44181939 Pop: 433956670
+New cases: 464769 at France/Europe on 1/18/2022 Total: 14789038 Pop: 67422000
+New cases: 490707 at South Korea/Asia on 3/22/2022 Total: 10427247 Pop: 51830139
+New cases: 495961 at Lower middle income/ on 3/12/2022 Total: 86044866 Pop: 3363196660
+New cases: 502507 at France/Europe on 1/25/2022 Total: 17354921 Pop: 67422000
+New cases: 505240 at Lower middle income/ on 1/21/2022 Total: 72354707 Pop: 3363196660
+New cases: 516326 at Lower middle income/ on 1/20/2022 Total: 71849467 Pop: 3363196660
+New cases: 527487 at Germany/Europe on 3/31/2022 Total: 21357095 Pop: 83408554
+New cases: 621317 at South Korea/Asia on 3/16/2022 Total: 8250592 Pop: 51830139
+New cases: 810075 at Upper middle income/ on 2/4/2022 Total: 101701194 Pop: 2501427940
+New cases: 825378 at Upper middle income/ on 1/28/2022 Total: 96938218 Pop: 2501427940
+New cases: 834558 at Upper middle income/ on 2/3/2022 Total: 100891119 Pop: 2501427940
+New cases: 957237 at Asia/ on 3/17/2022 Total: 130787306 Pop: 4693235454
+New cases: 1010000 at Asia/ on 3/12/2022 Total: 126402567 Pop: 4693235454
+New cases: 1043794 at United States/North America on 1/3/2022 Total: 56444020 Pop: 336997624
+New cases: 1091992 at North America/ on 1/3/2022 Total: 66787246 Pop: 596315269
+New cases: 1100729 at Asia/ on 3/16/2022 Total: 129830069 Pop: 4693235454
+New cases: 1134277 at United States/North America on 1/18/2022 Total: 68007721 Pop: 336997624
+New cases: 1190682 at North America/ on 1/18/2022 Total: 79678426 Pop: 596315269
+New cases: 1355357 at United States/North America on 1/10/2022 Total: 61927911 Pop: 336997624
+New cases: 1438684 at North America/ on 1/10/2022 Total: 72854379 Pop: 596315269
+New cases: 1473205 at European Union/ on 1/26/2022 Total: 81570544 Pop: 447593544
+New cases: 1502031 at European Union/ on 1/27/2022 Total: 83072575 Pop: 447593544
+New cases: 1523924 at European Union/ on 1/25/2022 Total: 80097339 Pop: 447593544
+New cases: 1765376 at Europe/ on 1/26/2022 Total: 119855126 Pop: 748655221
+New cases: 1807128 at Europe/ on 1/25/2022 Total: 118089750 Pop: 748655221
+New cases: 1846303 at Europe/ on 1/27/2022 Total: 121701429 Pop: 748655221
+New cases: 2633455 at High income/ on 1/26/2022 Total: 191194820 Pop: 1241374280
+New cases: 2770824 at High income/ on 1/18/2022 Total: 172434084 Pop: 1241374280
+New cases: 2851533 at High income/ on 1/19/2022 Total: 175285617 Pop: 1241374280
